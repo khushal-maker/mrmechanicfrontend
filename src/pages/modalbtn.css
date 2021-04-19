@@ -1,0 +1,17 @@
+button.mail-btn.btn.btn-primary{
+    margin-top: 7px;
+    margin-left: 5px;
+    background-color: blue;
+}
+button.mail-btn.btn.btn-primary:hover{
+    color: white;
+}
+#contained-modal-title-vcenter.modal-title.h4{
+    margin-left: 20px;
+}
+/* label.form-label{
+    margin-left: 308px;
+} */
+/* #Email.form-control{
+    margin-left: 71px;
+} */

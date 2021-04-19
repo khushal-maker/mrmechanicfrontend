@@ -1,0 +1,85 @@
+{
+    "infos":[
+        {
+            "title":"Heavy AutoMobile Painting",
+            "price": "Rs. 3990",
+            "detail": "10000 Km or 1 Month Waranty",
+            "image":"./imagecard/c1.jpg",
+            "list1":{
+                "first":"Manufacture in Amroli",
+                "second":"Ruchu Rubbur Foundation",
+                "third":"Ruchu-Tyers"
+            },
+            "list2":{
+                "first":"Manufacture in Amroli",
+                "second":"Ruchu Rubbur Foundation",
+                "third":"Ruchu-Tyers"
+            }
+        },
+        {
+            "title":"Automotive Painting Services",
+            "price": "Rs. 3990",
+            "detail": "car Spa And Cleaning",
+            "image":"./imagecard/c2.jpg",
+            "list1":{
+                "first":"Manufacture in Amroli",
+                "second":"Ruchu Rubbur Foundation",
+                "third":"Ruchu-Tyers"
+            },
+            "list2":{
+                "first":"Manufacture in Amroli",
+                "second":"Ruchu Rubbur Foundation",
+                "third":"Ruchu-Tyers"
+            }
+        },
+        {
+            "title":"Painting Services",
+            "price": "Rs. 3990",
+            "detail": "car Spa And Cleaning",
+            "image":"./imagecard/c3.jpg",
+            "list1":{
+                "first":"Manufacture in Amroli",
+                "second":"Ruchu Rubbur Foundation",
+                "third":"Ruchu-Tyers"
+            },
+            "list2":{
+                "first":"Manufacture in Amroli",
+                "second":"Ruchu Rubbur Foundation",
+                "third":"Ruchu-Tyers"
+            }
+        },
+        {
+            "title":"AutoMobile Painting",
+            "price": "Rs. 3990",
+            "detail": "car Spa And Cleaning",
+            "image":"./imagecard/c4.jpg",
+            "list1":{
+                "first":"Manufacture in Amroli",
+                "second":"Ruchu Rubbur Foundation",
+                "third":"Ruchu-Tyers"
+            },
+            "list2":{
+                "first":"Manufacture in Amroli",
+                "second":"Ruchu Rubbur Foundation",
+                "third":"Ruchu-Tyers"
+            }
+        },
+        {
+            "title":"Painting Work",
+            "price": "Rs. 3990",
+            "detail": "car Spa And Cleaning",
+            "image":"./imagecard/c5.jpg",
+            "list1":{
+                "first":"Manufacture in Amroli",
+                "second":"Ruchu Rubbur Foundation",
+                "third":"Ruchu-Tyers"
+            },
+            "list2":{
+                "first":"Manufacture in Amroli",
+                "second":"Ruchu Rubbur Foundation",
+                "third":"Ruchu-Tyers"
+            }
+        }
+
+    ]
+}

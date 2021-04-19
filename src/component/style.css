@@ -1,0 +1,240 @@
+.main-container{
+    background-color: #f5f8fd;
+}
+.line{
+    background-color: black;
+    border: 1px solid black;
+    width: 200px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+h1.main-heading{
+    margin-left: 500px;
+    margin-bottom: 30px;
+}
+.h3-first1{
+    margin-left: 65px;
+    padding: 10px;
+}
+.h3-first2{
+    margin-left: 800px;
+}
+.h3-first3{
+margin-left: 65px;
+}
+.h3-first4{
+    margin-left: 800px;
+    margin-bottom: 25px;
+}
+li.list1{
+     margin-left: 110px; 
+     margin-top: -5px;
+ } 
+ li.list2{
+     margin-left: 830px;
+ }
+ li.list3{
+     margin-left: 110px;
+ }
+ li.list4{
+     margin-left: 830px;
+     margin-top: -15px;
+     
+ }
+ img.image-car{
+     width: 200px;
+     height: 130px;
+    margin-top: -130px;
+    margin-left: 567px; 
+ }
+ img.image-car2{
+    width: 200px;
+    height: 110px;
+   margin-top: -130px;
+   margin-left: 567px; 
+}
+img.image-car3{
+    width: 200px;
+    height: 110px;
+   margin-top: -125px;
+   margin-left: 567px; 
+}
+img.image-car4{
+    width: 200px;
+    height: 110px;
+   margin-top: -107px;
+   margin-left: 567px; 
+}
+@media screen and (max-width:1200px){
+    .main-container{
+        width: 1220px;
+    }
+    .h3-first1 {
+        margin-left: 0;
+  
+      }
+      .h3-first2{
+          margin-left: 700px;
+      }
+      .h3-first3{
+          margin-left: 0;
+  
+      }
+      .h3-first4{
+          margin-left: 700px;
+      }
+      li.list1{
+          margin-left: 51px;
+      }
+      li.list2{
+          margin-left: 730px;
+      }
+      li.list3{
+          margin-left: 51px;
+      }
+      li.list4{
+          margin-left: 730px;
+      }
+      img.image-car{
+          margin-left: 476px;
+          margin-top: -100px;
+      }
+      img.image-car2{
+          margin-left: 476px;
+          margin-top: -100px;
+      }
+      img.image-car3{
+          margin-left: 476px;
+          margin-top: -100px;
+      }
+      img.image-car4{
+          margin-left: 476px;
+          margin-top: -100px;
+      }
+}
+@media screen and (max-width:1024px){
+   .h3-first1 {
+      margin-left: 0;
+
+    }
+    .h3-first2{
+        margin-left: 700px;
+    }
+    .h3-first3{
+        margin-left: 0;
+
+    }
+    .h3-first4{
+        margin-left: 700px;
+    }
+    li.list1{
+        margin-left: 51px;
+    }
+    li.list2{
+        margin-left: 730px;
+    }
+    li.list3{
+        margin-left: 51px;
+    }
+    li.list4{
+        margin-left: 730px;
+    }
+    img.image-car{
+        margin-left: 476px;
+        margin-top: -100px;
+    }
+    img.image-car2{
+        margin-left: 476px;
+        margin-top: -100px;
+    }
+    img.image-car3{
+        margin-left: 476px;
+        margin-top: -100px;
+    }
+    img.image-car4{
+        margin-left: 476px;
+        margin-top: -100px;
+    }
+
+}
+@media screen and (max-width:992px){
+    .main-container{
+        width: 1000px;
+        background-color: #f5f8fd;
+    }
+    h1.main-heading{
+        margin-left: 40px;
+        
+    }
+    .h3-first2{
+        margin-left: 11px;
+    }
+    li.list2{
+        margin-left: 53px;
+    }
+    .h3-first3{
+        margin-left: 11px;
+    }
+    .h3-first4{
+        margin-left:11px;
+    }
+    li.list4{
+        margin-left: 52px;
+    }
+
+}
+@media screen and (max-width:768px) {
+    /* .h3-first1{
+
+    } */
+    .h3-first2{
+        margin-left: 10px;
+
+    }
+    li.list2{
+        margin-left: 51px;
+    }
+    .h3-first3{
+        margin-left: 9px;
+    }
+    .h3-first4{
+        margin-left: 6px;
+
+    }
+    li.list4{
+        margin-left: 48px;
+    }
+}
+@media screen and (max-width:320px){
+    .main-container{
+        width: 910px;
+        background-color: #f5f8fd;
+    }
+    h1.main-heading{
+        font-size: x-large;
+        margin-left: 90px;
+    }
+    .h3-first1{
+        font-size: larger;
+    }
+    .h3-first2{
+        font-size: larger;
+        margin-left: 7px;
+    }
+    li.list2{
+        margin-left: 43px;
+    }
+    .h3-first3{
+        font-size: larger;
+    }
+    li.list3{
+        margin-left: 43px;
+    }
+    .h3-first4{
+        font-size: larger;
+        margin-left: 0px;
+    }
+    li.list4{
+        margin-left: 43px;
+    }
+}

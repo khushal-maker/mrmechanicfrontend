@@ -1,0 +1,19 @@
+
+
+.form-control{
+    width: 80%
+}
+
+#email.form-input-box{
+    margin-left: 150px;
+}
+button.btn.btn-primary{
+    margin-top: 0px;
+    margin-left: 6px;
+}
+button.btn.btn-primary{
+    background-color: blue;
+}
+.contained-modal-title-vcenter-register{
+    width: 80%;
+}

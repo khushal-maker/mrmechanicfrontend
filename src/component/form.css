@@ -1,0 +1,23 @@
+.btn.btn-primary{
+    margin-left: 300px;
+}
+.closebtn{
+    margin-left: 5px;
+}
+.closebtn2.btn.btn-danger{
+    margin-left: 394px;
+    margin-top: -65px;
+}
+.register{
+    margin-left: 5px;
+}
+.closebtn3.btn.btn-danger{
+    margin-left: 400px;
+    margin-top: -1px;
+    position: fixed;
+    
+}
+.btn.btn-success{
+    margin-left: 240px;
+    position: fixed;
+}
